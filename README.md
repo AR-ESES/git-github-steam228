@@ -1,6 +1,4 @@
-# JÁ FIZ ISTO!
-## djhasjkdjkashd
-
+# djhasjkdjkashd
 
 
 # :wave: The Basics of GitHub 
